@@ -1,4 +1,5 @@
 import SwiftUI
+import CoreData
 
 struct ContentView: View {
     @StateObject private var viewModel: ProductViewModel

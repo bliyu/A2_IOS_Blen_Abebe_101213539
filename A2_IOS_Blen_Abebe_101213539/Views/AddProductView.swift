@@ -1,4 +1,5 @@
 import SwiftUI
+import CoreData
 
 struct AddProductView: View {
     @Environment(\.dismiss) private var dismiss
